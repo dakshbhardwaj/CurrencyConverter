@@ -1,6 +1,8 @@
-This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
+# Demo 
 
-# Getting Started
+https://github.com/dakshbhardwaj/CurrencyConverter/assets/22423684/bbbbc325-ccda-4c0d-b5a3-e5f72b51a495
+
+## Installation Instruction
 
 > **Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup)
 
@@ -34,6 +36,10 @@ yarn android
 # using npm
 npm run ios
 
+
+
 # OR using Yarn
 yarn ios
 ```
+
+
