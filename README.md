@@ -4,7 +4,8 @@ https://github.com/dakshbhardwaj/CurrencyConverter/assets/22423684/bbbbc325-ccda
 
 # Folder Structure
 
-src/
+```sh
+[src/
 |-- api/
 |-- assets/
 |-- components/
@@ -21,6 +22,7 @@ src/
 | |-- colors
 | |-- countries
 | |-- localEvent
+```
 
 - **src:** Contains the source code of the application.
 
